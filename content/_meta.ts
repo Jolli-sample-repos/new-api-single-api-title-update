@@ -3,7 +3,7 @@ export default {
   'valid-changelog': 'Valid - Changelog',
   'valid-troubleshooting': 'Valid - Troubleshooting',
   'api-reference': {
-    title: 'Custom API Title',
+    title: 'API Reference',
     type: 'page',
     href: '/api-docs/valid-jolli-api-yaml'
   }
